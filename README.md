@@ -46,7 +46,7 @@ GPT-4o 기반 LLM을 활용한 라벨링 → 통계적 유의성 검정(T-test) 
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scipy](https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![T-test](https://img.shields.io/badge/T--test-003366?style=for-the-badge&logo=python&logoColor=white)
-![Yahoo Finance](https://img.shields.io/badge/Yahoo_Finance-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)
+![yfinance](https://img.shields.io/badge/yfinance-232F3E?style=for-the-badge&logo=yahoo&logoColor=white)
 
 ---
 
